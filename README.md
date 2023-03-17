@@ -146,7 +146,6 @@ releasing work publicly on the Web.
 - [Mozilla](https://donate.mozilla.org/en-US/)
 - [The Internet Archive](https://archive.org/donate/index.php)
 
-
 # Related Projects
 
 - Inspired by a desire to improve upon
